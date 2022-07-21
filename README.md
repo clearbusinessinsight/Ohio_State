@@ -17,5 +17,5 @@ As the founder and owner of CAC By Design (Kitchen and Bath Remodeling), CLEAR B
 
 ![Horiseon Agency Website](./assets/images/Horiseon%20Marketing%20Agency.gif)
 
-[Horiseon Agency Website link](https://clearbusinessinsight.github.io/OSCC/)
+[Horiseon Agency Website link](https://clearbusinessinsight.github.io/Ohio_State/)
 
